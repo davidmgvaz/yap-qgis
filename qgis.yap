@@ -1,0 +1,1 @@
+:- load_foreign_files(['libqgis_yap'],[],init_predicates).
